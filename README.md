@@ -1,6 +1,18 @@
-# Bujuka/Rayuan 
+# Jangan di download
+# Script ini mengandung Malware
 
-# SoulTaker-Multitool
+Inilah contoh dari orang yang mengirim virus seperti malware,trojan,dll
+Dengan bentuk script di github sehingga orang yang download dan mengekstrak akan terkena dampaknya
+Maka berhati-hati lah kalau mau mendownload script di github.
+
+# Cara biar tidak terkena virus
+
+•kenal/bisa dihubungi sumber pembuatnya
+
+•Jangan asal download
+
+•ketahuilah dengan pasti
+# Contoh bujukan atau Rayuan
 SoulTaker is a Open-Source Multitool written by myself, contains a lot of things such as a phone spoofer, ip lookup, dox tool etc. In the pswd file, is the password to decrypt the .rar file. Enjoy! :)
 
 ![Soultakerpic](https://user-images.githubusercontent.com/69897482/90620243-7c3eca80-e212-11ea-87c9-9752601faf5d.PNG)
