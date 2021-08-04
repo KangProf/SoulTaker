@@ -1,9 +1,15 @@
 # Jangan di download
-# Script ini mengandung Malware
+# Script ini mengandung Malware!
 
 Inilah contoh dari orang yang mengirim virus seperti malware,trojan,dll
 Dengan bentuk script di github sehingga orang yang download dan mengekstrak akan terkena dampaknya
 Maka berhati-hati lah kalau mau mendownload script di github.
+
+# Warning!!
+
+•Jikalau kamu mau balas dendam dengan seseorang/suatu negara boleh menggunakan script ini.
+
+•Saya tidak bertanggung jawab atas kerusakan sistem pada perangkat anda.
 
 # Cara biar tidak terkena virus
 
