@@ -11,6 +11,10 @@ Maka berhati-hati lah kalau mau mendownload script di github.
 
 •Saya tidak bertanggung jawab atas kerusakan sistem pada perangkat anda.
 
+# Bukti script ini mengandung virus
+
+https://www.virustotal.com/gui/file/49945b5eb3f80e6bb9dba81c6c6f643245bb0831ce2f6e5abf4db12ab6709b76/detection
+
 # Cara biar tidak terkena virus
 
 •kenal/bisa dihubungi sumber pembuatnya
